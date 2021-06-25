@@ -10,5 +10,5 @@ An e-commerce music store website that sells electronic music products.
 
 ### Screenshots
 
-<img src="https://i.loli.net/2021/06/25/hYlpQ1vcN9kRuqg.png" alt="Screenshot_1611605605" width="360" height="640" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gruxe565jnj30i90kjagq.jpg" alt="Screenshot_1611605605" width="360" height="640" />
 

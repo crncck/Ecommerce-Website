@@ -10,21 +10,24 @@ An e-commerce music store website that sells electronic music products.
 
 ### Screenshots
 
-Home Page
+**Home Page**
 
 <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gruxe565jnj30i90kjagq.jpg" alt="homepage" />
 
+<br>
 
-Product Details Page
+**Product Details Page**
 
 <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gruxh0khdaj60ko0jxq8202.jpg" alt="detailspage" />
 
+<br>
 
-Products Page
+**Products Page**
 
 <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gruxhozgtej30vd0h17bu.jpg" alt="products" />
 
+<br>
 
-Shopping Cart
+**Shopping Cart**
 
 <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gruxi3ycadj30xd0h1myp.jpg" alt="cart" />

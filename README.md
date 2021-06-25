@@ -26,7 +26,7 @@ An e-commerce music store website that sells electronic music products.
 
 **Products Page**
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gruxjup49uj30vd0h17bu.jpg" alt="products" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gruxldon36j30vd0h17bu.jpg" alt="products" />
 
 <br>
 <br>
